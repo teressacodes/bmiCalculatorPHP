@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="71f6d36d-5b64-4eaa-baeb-5e3d43954f99" name="bmi.teressaellison.com" url="http://bmi.teressaellison.com">
+        <fileTransfer rootFolder="/home/dh_8vqth2/bmi.teressaellison.com" accessType="SFTP" host="bmi.teressaellison.com" port="22" sshConfigId="86cfc730-573b-4da4-83b5-19311d98dccd" sshConfig="dh_8vqth2@bmi.teressaellison.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
